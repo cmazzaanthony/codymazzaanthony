@@ -5,8 +5,8 @@ date: 2021-04-28 21:00:00
 description: 
 giscus_comments: false
 related_posts: false
-tags: code
-categories: code
+tags: shopify
+categories: shopify
 ---
 
 Have you ever been handed a dataset and then been asked to describe it? 
