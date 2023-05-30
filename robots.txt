@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cmazzaanthony.github.io/codymazzaanthony/sitemap.xml
+Sitemap: http://codymazzaanthony.com/sitemap.xml
